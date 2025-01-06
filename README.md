@@ -1,5 +1,5 @@
 `simplify.py`
-#Example equations to simplify
+Example equations to simplify
 ```
 equations = [
     "2x - 2 = 4x - 4",
